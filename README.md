@@ -6,4 +6,5 @@ Fullpage.js(On Scroll Section Change) - https://alvarotrigo.com/fullPage/ <br />
 Vesas(Full Screen Background Slider) - http://vegas.jaysalvat.com/ <br />
 Switchery(Toggle switch) - http://abpetkov.github.io/switchery/ <br />
 Pretty Checkbox(Custom Checkbox/Radios/Toogles) - https://lokesh-coder.github.io/pretty-checkbox/ <br />
-Pace JS(ProgressBar loading) - http://github.hubspot.com/pace/docs/welcome/
+Pace JS(ProgressBar loading) - http://github.hubspot.com/pace/docs/welcome/ <br />
+Collage Plus(Gallery View) - https://github.com/ed-lea/jquery-collagePlus
