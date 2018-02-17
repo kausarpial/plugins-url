@@ -9,4 +9,5 @@ Pretty Checkbox(Custom Checkbox/Radios/Toogles) - https://lokesh-coder.github.io
 Pace JS(ProgressBar loading) - http://github.hubspot.com/pace/docs/welcome/ <br />
 Collage Plus(Gallery View) - https://github.com/ed-lea/jquery-collagePlus <br />
 Sweet Alert 2 - https://github.com/sweetalert2/sweetalert2 <br />
-Headroom js - http://wicky.nillia.ms/headroom.js/
+Headroom js - http://wicky.nillia.ms/headroom.js/ <br />
+MatchHeight (Matches the heights of divs) - https://github.com/liabru/jquery-match-height <br />
