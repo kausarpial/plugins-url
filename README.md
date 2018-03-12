@@ -13,5 +13,5 @@ Headroom js - http://wicky.nillia.ms/headroom.js/ <br />
 MatchHeight (Matches the heights of divs) - https://github.com/liabru/jquery-match-height <br />
 Toastr (Toast notification) - http://codeseven.github.io/toastr/ <br />
 Parallaxify (Move Particles on mouse move) - https://github.com/hwthorn/parallaxify <br />
-Tippy JS (Tooltip) - https://atomiks.github.io/tippyjs/
+Tippy JS (Tooltip) - https://atomiks.github.io/tippyjs/ <br />
 mojs (Web Animation) - http://mojs.io/
