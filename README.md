@@ -15,4 +15,6 @@ Toastr (Toast notification) - http://codeseven.github.io/toastr/ <br />
 Parallaxify (Move Particles on mouse move) - https://github.com/hwthorn/parallaxify <br />
 Tippy JS (Tooltip) - https://atomiks.github.io/tippyjs/ <br />
 mojs (Web Animation) - http://mojs.io/ <br />
-ScrollBooster (Drag to scroll) - https://ilyashubin.github.io/scrollbooster/
+ScrollBooster (Drag to scroll) - https://ilyashubin.github.io/scrollbooster/ <br>
+Flipping (Animate Objects with JS) - https://github.com/davidkpiano/flipping
+
