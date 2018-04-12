@@ -16,5 +16,6 @@ Parallaxify (Move Particles on mouse move) - https://github.com/hwthorn/parallax
 Tippy JS (Tooltip) - https://atomiks.github.io/tippyjs/ <br />
 mojs (Web Animation) - http://mojs.io/ <br />
 ScrollBooster (Drag to scroll) - https://ilyashubin.github.io/scrollbooster/ <br>
-Flipping (Animate Objects with JS) - https://github.com/davidkpiano/flipping
+Flipping (Animate Objects with JS) - https://github.com/davidkpiano/flipping <br>
+Media Element JS (Custom Audio, Video Player) - http://www.mediaelementjs.com/ <br>
 
