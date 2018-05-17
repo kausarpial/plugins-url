@@ -21,3 +21,5 @@ Media Element JS (Custom Audio, Video Player) - http://www.mediaelementjs.com/ <
 Macy JS (Masonry Layout) - http://macyjs.com/ <br>
 curtain.js(image animation with webgl) - https://www.martin-laxenaire.fr/libs/curtainsjs/index.html <br>
 Toast - http://izitoast.marcelodolce.com/ <br>
+Quill.js (Live Text Editor) - https://quilljs.com/ <br>
+Dragula (Drag & drop the html components) - https://bevacqua.github.io/dragula/ <br>
