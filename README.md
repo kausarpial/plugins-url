@@ -23,3 +23,4 @@ curtain.js(image animation with webgl) - https://www.martin-laxenaire.fr/libs/cu
 Toast - http://izitoast.marcelodolce.com/ <br>
 Quill.js (Live Text Editor) - https://quilljs.com/ <br>
 Dragula (Drag & drop the html components) - https://bevacqua.github.io/dragula/ <br>
+Vivus (SVG Path Animation) - https://github.com/maxwellito/vivus <br>
