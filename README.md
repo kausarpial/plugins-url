@@ -25,3 +25,4 @@ Quill.js (Live Text Editor) - https://quilljs.com/ <br>
 Dragula (Drag & drop the html components) - https://bevacqua.github.io/dragula/ <br>
 Vivus (SVG Path Animation) - https://github.com/maxwellito/vivus <br>
 Wheel Indicator - http://promo.github.io/wheel-indicator/ <br>
+Smooth Scroll with Custom Scrollbar - https://github.com/idiotWu/smooth-scrollbar <br>
