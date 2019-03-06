@@ -26,3 +26,4 @@ Dragula (Drag & drop the html components) - https://bevacqua.github.io/dragula/ 
 Vivus (SVG Path Animation) - https://github.com/maxwellito/vivus <br>
 Wheel Indicator - http://promo.github.io/wheel-indicator/ <br>
 Smooth Scroll with Custom Scrollbar - https://github.com/idiotWu/smooth-scrollbar <br>
+Smooth Scroll with Parallax effect - https://min30327.github.io/luxy.js/
