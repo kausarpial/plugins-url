@@ -28,3 +28,4 @@ Wheel Indicator - http://promo.github.io/wheel-indicator/ <br>
 Smooth Scroll with Custom Scrollbar - https://github.com/idiotWu/smooth-scrollbar <br>
 Smooth Scroll with Parallax effect - https://min30327.github.io/luxy.js/
 Tilt/Parallax background effect - https://github.com/ifcanduela/jquery-parallax
+Charming JS - https://github.com/yuanqing/charming
